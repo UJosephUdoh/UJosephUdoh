@@ -16,7 +16,7 @@ My journey in computer information systems has led me to develop a passion for c
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Vulnerability Scan with Nessus         | <a href="https://github.com/UJosephUdoh/Vulnerability-Scan-With-Nessus">VScan with Nessus</a>|
+| Remote Vulnerability Scanning and Reporting         | <a href="https://github.com/UJosephUdoh/Vulnerability-Scan-With-Nessus">VScan with Nessus</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
