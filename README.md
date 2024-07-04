@@ -58,6 +58,7 @@ My journey in computer information systems has led me to develop a passion for c
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
   
 </div>
 
