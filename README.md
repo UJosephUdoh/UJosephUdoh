@@ -1,4 +1,4 @@
-# Hey, I'm Joseph!
+# Hey, I'm Joseph!👋🏿
 <a href="https://linkedin.com](https://www.linkedin.com/in/josephudoh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an ambitious and tech-savvy professional with a robust foundation in technology, actively enhancing expertise in Cybersecurity and IT. As an engaged college student with a dynamic personality, I am inherently motivated and have consistently demonstrated exceptional teamwork in all circumstances. I have established a personal home lab to explore new technologies and hone my skills. Seeking remote opportunities to leverage my knowledge and enthusiasm in a dynamic work environment.
